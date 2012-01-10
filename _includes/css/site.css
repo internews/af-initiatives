@@ -62,6 +62,9 @@ a:hover {
 #drawer a {
   color: #fff;
   }
+  #drawer a:hover {
+    border-bottom: 1px solid #808080;
+    }
 a.button {
   background: #69AACA url(images/sprite.png) repeat-x bottom;
   border-radius: 2px;
@@ -227,7 +230,7 @@ a.title {
   width: 30%;
   height: 100%;
   overflow: auto;
- -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
+  -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
   -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
   box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
   border-right: 1px solid #292929;
