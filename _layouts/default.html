@@ -6,15 +6,13 @@
 <link rel='shortcut icon' href='images/attribution/favicon.ico' type='image/x-icon' />
 <link rel='stylesheet' href='{{site.baseurl}}/site.css' media='all'/>
 </head>
-<body>
+<body {% if page.url == '/index.html' %}class="front"{% endif %}>
   <div id='overlay'></div>
   <div id='masthead'>
     <a href='http://www.internews.org' class='internews' title='internews.org'>an INTERNEWS project</a>
   </div>
   <div id='header'>
     <a href='{{site.baseurl}}/index.html' class='title'>Internews in Afghanistan</a>
-    
-	
 	</div>
 {{content}}
 
