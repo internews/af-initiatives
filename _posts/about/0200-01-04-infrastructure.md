@@ -1,12 +1,10 @@
 ---
-title: infrastructure
+title: Infrastructure
 category: about
 tags: about
 layout: pages
 ---
 
-
-###Infrastructure
 
 We have built a network of 42 local, independently-operated radio stations nationwide. See the locations of our partner radio and TV locations in the map below. Hover over each dot to see station-specific information.  
 
