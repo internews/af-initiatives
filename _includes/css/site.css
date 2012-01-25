@@ -188,12 +188,12 @@ body #map-bg {
   top: 0;
   z-index: 1000;
   }
-  #masthead a.internews {
+#masthead a.internews {
     background: transparent url('images/sprite.png') no-repeat 0 0;
     width: 160px;
     height: 20px;
     display: block;
-    padding-left: 120px;
+    padding-left: 80px;
     color: #fff;
     }
 
