@@ -1,0 +1,3 @@
+## Internews Initiatives
+
+This site uses Jekyll, a simple, logic aware, static site generator. In a nutshell you build a site with all the logic and source files you need and Jekyll creates a static copy of the website in a '_site/' directory. Note that you do not touch the contents of this directory. You make any additions or changes to the files outside of this. After you [install jekyll](https://github.com/mojombo/jekyll/wiki/install), and have downloaded the project, from terminal, change into the directory the project is in and type 'jekyll'. Locally, the site can be viewed at `http://0.0.0.0:4000/index.html` after it has been generated for the first time.
