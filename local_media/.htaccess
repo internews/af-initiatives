@@ -1,0 +1,6 @@
+AuthName "Restricted Area" 
+AuthUserFile /af-initiatives/local_media/.htpasswd
+AuthGroupFile /dev/null
+AuthType Basic
+
+require valid-user
