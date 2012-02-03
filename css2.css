@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.column-c {
+	width: 700px;
+	float: left;
+	postition: relative;
+	margin-left: 20px;
+	margin-top: 180px;
+	margin-bottom: 150px;
+	z-index: 100;
+	overflow-y: auto;
+  }
+  
+  h4 { font-size: 15px; line-height: 22px; margin: 10px 0; color:#fff; }
+  
+  
+h6 {
+	font-size: 12px;
+	color: #FFF;
+	line-height: 20px;
+	float: right;
+	margin-right: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+}
+
+#drawer p { line-height: 16px; }
+
+#drawer table {
+  line-height: 15px;
+  border: 1px solid #dddddd; /* 5 pixels thick, solid line, white */
+  padding: 2px;
+}
+
+#drawer table tbody {
+  border: 1px solid #dddddd; /* 5 pixels thick, solid line, yellow */
+  padding: 2px;
+  margin: 2px;
+}
+
+#drawer table tbody tr {
+  border: 1px solid #dddddd; /* 5 pixels thick, solid line, red */
+  padding: 2px;
+  margin: 2px;
+}
+
+#drawer table tbody tr td {
+  border: 1px solid #dddddd; /* 5 pixels thick, solid line, red */
+  margin: 2px;
+  padding: 2px;
+}
+
+
+
+a.button {
+	  border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  height: 0px;
+  padding: 0px 0px; }
